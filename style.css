@@ -1,6 +1,6 @@
 body {
   background: white;
-  background-image: url("fond de page.jpg");
+  
   background-attachment: fixed;
   background-repeat: repeat;
 }
@@ -20,12 +20,12 @@ h1 {
   box-shadow: 4px 4px 7px grey;
 }
 h2 {
-  color: rgb(255, 255, 0);
+  color: #45a5d4;
   text-align: left;
   font-size: 1.5em;
 }
 li {
-  color: rgb(50, 150, 100);
+  color: rgb(17, 24, 38);
   text-align: justify;
   font-size: 100%;
 }
